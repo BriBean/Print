@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: <Brianna>
+# date: <6/30/21>
 
 # This is you first project! Today you will be familiarizing yourself with the print() statement.
 # What you are reading right now is a comment, which is annotation in source code. Don't worry about it too much, just
@@ -8,7 +8,7 @@
 # Projects / Exercises will typically contain comments that are instructions. They're also will be stuff like links to
 # documentation, hints, and other useful information in comments, so be sure to read them. To make sure that the
 # comments are being read, for the date of this file, write 00/00/0000 instead of the actual date.
-#
+# 00/00/0000
 # Comments will also include information like /example output/. This is what your program's output in the
 # terminal should look like. It doesn't have to match exactly, but it should be close.
 #
@@ -32,8 +32,9 @@
 #   frank ocean
 #
 # WRITE CODE BELOW
-print('elia')
-
+print('Brianna')
+print('October 26th')
+print('Tyler,The Creator')
 # Project 1.2
 #   1) Print your first and last name using separation with commas. Separate your first and last name.
 #   2) Print the date using separation with commas, separating the month, day, and year.
@@ -46,7 +47,10 @@ print('elia')
 #   bat-eared fox (otocyon megalotis)
 #
 # WRITE CODE BELOW
-print('elia', 'deppe')
+print()
+print('Brianna','Blue')
+print('June 30th','2021')
+print('Sea otter','(Enhydra Lutris)')
 
 # Project 1.3
 #   1) Print the first 2-5 letters of a country's name with another country's last 2-5 letters of it's name. Use
@@ -64,8 +68,13 @@ print('elia', 'deppe')
 #
 #
 # WRITE CODE BELOW
-
-
+print()
+print('Chi' + 'esia')
+print()
+print('All of my pumping blood')
+print('I am human','I am woman')
+print('Drifting down my life')
+print('Light up this time','light up this time')
 # Finally your last instructions are to set the theme of your IDE. To do so follow these instructions
 #   1) File --> Settings
 #   2) Appearance & Behavior --> Theme
